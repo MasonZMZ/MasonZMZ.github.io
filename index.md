@@ -13,8 +13,8 @@ I am a Ph.D. student at The University of Queensland.
 
 ## News
 
-- **[Nov. 2022]** Our paper about empathy style text transformer is accepted to ADMA 2022.
 - **[May. 2023]** Our paper about Stereotype Bias Removal in Text Classification at the Word Level is accepted to PAKDD 2023.
+- **[Nov. 2022]** Our paper about empathy style text transformer is accepted to ADMA 2022.
 
 {% include_relative _includes/publications.md %}
 
