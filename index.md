@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at The University of Queensland.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **NLP for Mental Health:** LLM, Transformers
+- **Machine Learning:** PU learning, Boosting algorithm
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2022]** Our paper about empathy style text transformer is accepted to ADMA 2022.
+- **[May. 2023]** Our paper about Stereotype Bias Removal in Text Classification at the Word Level is accepted to PAKDD 2023.
 
 {% include_relative _includes/publications.md %}
 
