@@ -4,8 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at The University of Queensland. I also received my master's degree from UQ. Before joining UQ, I received my bachelor’s degree from Shanxi Uni‑
-versity (a “Double First‑Class” University in China) in 2019.
+I am a Ph.D. student at The University of Queensland. I also received my master's degree from UQ. Before joining UQ, I received my bachelor’s degree from Shanxi University (a “Double First‑Class” University in China) in 2019.
 
 ## Research Interests
 
