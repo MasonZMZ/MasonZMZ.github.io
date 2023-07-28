@@ -29,8 +29,8 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-22137-8_5">Words Can be Confusing: Stereotype Bias Removal in Text Classification         at the Word Level</a></div>
-    <div class="author"><strong>Shaofei Shen</strong>, Mingzhe Zhang, Weitong Chen, Alina N Bialkowski, Miao Xu</div>
+    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-33383-5_8">Words Can be Confusing: Stereotype Bias Removal in Text Classification         at the Word Level</a></div>
+    <div class="author">Shaofei Shen, <strong>Mingzhe Zhang</strong>, Weitong Chen, Alina N Bialkowski, Miao Xu</div>
     <div class="periodical"><em>The Pacific-Asia Conference on Knowledge Discovery and Data Mining<strong>(PAKDD)</strong>, 2023.</em></div>
   </div>
   
